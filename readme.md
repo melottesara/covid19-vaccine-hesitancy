@@ -15,10 +15,12 @@ Use ```pip install``` to download packages.
 
 ```modeling```: Contains the code used for building the machine learning models.
 
-```sample_data```: Contains 100 sample tweets (text only embedding) along with example zip code-level data.
+```sample_data```: Contains 100 sample tweets (text only embedding) along with example zip code-level features.
 
 ## Data
 The data used in this project comes from [A Geo-Tagged COVID-19 Twitter Dataset for 10 North American Metropolitan Areas Over a 255-Day Period](https://www.mdpi.com/2306-5729/6/6/64).
+
+## How to Cite
 
 ## Contact
 Email: melotte@usc.edu
