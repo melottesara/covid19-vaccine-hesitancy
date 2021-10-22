@@ -1,4 +1,4 @@
-# Predicting Covid-19 Vaccine Hesitancy Using ML and Public Tweets
+# Predicting Covid-19 Vaccine Hesitancy
 This is the official repository associated with the paper "Predicting Zip Code-Level Vaccine Hesitancy in US Metropolitan Areas Using Machine Learning Models on Public Tweets".
 
 ## Setup
